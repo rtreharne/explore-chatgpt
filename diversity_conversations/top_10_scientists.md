@@ -1,0 +1,29 @@
+
+```
+Exported with AIPRM https://www.aiprm.com by Rob Treharne on 05/05/2023, 09:02:05
+```
+
+---
+
+
+**User:**
+Give me a list of the top 10 scientists of all time
+
+---
+
+**ChatGPT:**
+Creating a definitive list of the top 10 scientists of all time is subjective and can vary depending on personal opinions and criteria. However, I can provide you with a list of 10 influential scientists who have made significant contributions to their respective fields. Please note that this list is not exhaustive and is presented in no particular order:
+<li><p>Isaac Newton (1643-1727): An English physicist and mathematician known for his laws of motion, universal gravitation, and development of calculus.</p></li><li><p>Albert Einstein (1879-1955): A German-born physicist who revolutionized our understanding of space, time, and energy with his theory of relativity, and is best known for his equation E=mc².</p></li><li><p>Marie Curie (1867-1934): A Polish-born physicist and chemist who conducted pioneering research on radioactivity, becoming the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields.</p></li><li><p>Charles Darwin (1809-1882): An English naturalist who formulated the theory of evolution by natural selection, fundamentally changing our understanding of the origins and diversity of life.</p></li><li><p>Nikola Tesla (1856-1943): A Serbian-American inventor and electrical engineer who made significant contributions to the development of alternating current (AC) electrical systems and numerous other inventions related to electricity and magnetism.</p></li><li><p>Galileo Galilei (1564-1642): An Italian physicist, mathematician, and astronomer who played a crucial role in the scientific revolution. He made significant contributions to the fields of mechanics, astronomy, and the development of the scientific method.</p></li><li><p>Louis Pasteur (1822-1895): A French chemist and microbiologist known for his discoveries of the principles of vaccination, pasteurization, and microbial fermentation, which had a profound impact on medicine and public health.</p></li><li><p>Leonardo da Vinci (1452-1519): An Italian polymath known for his achievements in various fields, including painting, sculpture, anatomy, engineering, and mathematics. His scientific investigations and artistic mastery made him one of the most influential figures of the Renaissance.</p></li><li><p>James Clerk Maxwell (1831-1879): A Scottish physicist who formulated the theory of electromagnetism, unifying electricity, magnetism, and light into a single mathematical framework, and paving the way for the development of modern physics.</p></li><li><p>Aristotle (384-322 BC): An ancient Greek philosopher and polymath who made significant contributions to various fields, including physics, biology, ethics, and logic. His systematic approach to knowledge and his influence on Western thought have been profound.</p></li>
+This list represents just a fraction of the many brilliant scientists throughout history, and there are numerous others who have made remarkable contributions to our understanding of the world.
+
+---
+
+**User:**
+Can you make this list less "white" and "male" please! Maybe a more modern interpretation?
+
+---
+
+**ChatGPT:**
+Certainly! Here's an updated list that includes a more diverse range of influential scientists, both from the past and more recent times:
+<li><p>Rosalind Franklin (1920-1958): A British biophysicist who made significant contributions to the discovery of the structure of DNA through her work on X-ray crystallography.</p></li><li><p>Stephen Hawking (1942-2018): A British theoretical physicist known for his groundbreaking research on black holes, cosmology, and the theory of relativity.</p></li><li><p>Jane Goodall (1934-present): A British primatologist and conservationist who conducted pioneering research on chimpanzees, reshaping our understanding of animal behavior and the conservation of wildlife.</p></li><li><p>Mae Jemison (1956-present): An American astronaut, physician, and engineer who became the first African-American woman to travel in space. She has also been involved in various scientific and educational initiatives.</p></li><li><p>Tu Youyou (1930-present): A Chinese pharmaceutical chemist who won the Nobel Prize in Physiology or Medicine for her discovery of artemisinin, a drug used to treat malaria.</p></li><li><p>Vera Rubin (1928-2016): An American astronomer who provided evidence for the existence of dark matter, revolutionizing our understanding of the universe.</p></li><li><p>Chien-Shiung Wu (1912-1997): A Chinese-American experimental physicist who played a significant role in disproving the principle of conservation of parity, challenging fundamental concepts in particle physics.</p></li><li><p>Carl Sagan (1934-1996): An American astronomer, astrophysicist, and science communicator known for his popular science books, such as "Cosmos," which made scientific concepts accessible to a wide audience.</p></li><li><p>Jennifer Doudna (1964-present): An American biochemist who co-developed CRISPR-Cas9, a groundbreaking gene-editing tool that has revolutionized the field of genetics and holds immense potential for medical advancements.</p></li><li><p>Neil deGrasse Tyson (1958-present): An American astrophysicist and science communicator who has popularized science through his engaging presentations, TV shows, and books, making complex scientific concepts understandable and accessible to the public.</p></li>
+This updated list reflects the contributions of scientists from diverse backgrounds and highlights their significant impact on various scientific fields. It is important to recognize the achievements of scientists from all races, genders, and backgrounds, as their perspectives and discoveries enrich our understanding of the world.
